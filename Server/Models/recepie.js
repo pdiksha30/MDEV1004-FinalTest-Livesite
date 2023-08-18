@@ -5,7 +5,7 @@ const recepieSchema = new mongoose_1.Schema({
     recipeID: {
         type: String,
         required: true
-    },
+      },
     title: {
         type: String,
         required: true
