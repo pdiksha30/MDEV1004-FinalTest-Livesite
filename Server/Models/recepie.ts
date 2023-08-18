@@ -1,7 +1,6 @@
 import { Collection, Schema,  model } from 'mongoose';
 
 interface IRecipe {
-  recipeID: string;
   title: string;
   origin: string;
   ingredients: string[];
