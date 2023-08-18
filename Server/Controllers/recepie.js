@@ -113,7 +113,7 @@ function AddRecepie(req, res, next) {
     try {
         const ingredients = SanitizeArray(req.body.ingredients);
         const recipe = new recepie_1.default({
-            recepieId: req.body.recepieId,
+            recipeID: req.body.recipeID,
             title: req.body.title,
             origin: req.body.origin,
             ingredients: ingredients,
@@ -152,7 +152,7 @@ function UpdateRecepie(req, res, next) {
         const ingredients = SanitizeArray(req.body.ingredients);
         let recepieToUpdate = new recepie_1.default({
             _id: id,
-            recepieId: req.body.recepieId,
+            recipeID: req.body.recipeID,
             title: req.body.title,
             origin: req.body.origin,
             ingredients: ingredients,

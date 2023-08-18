@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const mongoose_1 = require("mongoose");
 const recepieSchema = new mongoose_1.Schema({
-    recepieID: {
+    recipeID: {
         type: String,
         required: true
     },
