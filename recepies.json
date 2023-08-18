@@ -1,0 +1,219 @@
+  [
+    {
+      "title": "Classic Margherita Pizza",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Roll out pizza dough.\n2. Spread tomato sauce.\n3. Top with mozzarella slices.\n4. Bake until crust is golden and cheese melts.\n5. Sprinkle torn basil leaves, drizzle olive oil, season.",
+      "origin": "Italy",
+      "preparationTime": "30 minutes",
+      "servingSize": "2-3 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 800,
+      "microNutrients": "Calcium",
+      "sourceURL": "https://example.com/margherita-pizza-recipe",
+      "imageURL": "https://example.com/images/margherita-pizza.jpg"
+    },
+    {
+      "title": "Creamy Garlic Mashed Potatoes",
+      "ingredients": [
+        "4 large potatoes",
+        "1/2 cup butter",
+        "1/2 cup heavy cream",
+        "4 cloves garlic",
+        "Salt and pepper",
+        "Chopped chives"
+      ],
+      "instructions": "1. Peel and chop potatoes, boil until tender.\n2. Sauté minced garlic in butter.\n3. Mash potatoes, add butter, cream, salt, and pepper.\n4. Whip until creamy and smooth.\n5. Garnish with chives.",
+      "origin": "Various",
+      "preparationTime": "40 minutes",
+      "servingSize": "4-6 servings",
+      "difficulty": "Easy",
+      "calorieCount": 300,
+      "microNutrients": "Vitamin B6",
+      "sourceURL": "https://example.com/garlic-mashed-potatoes-recipe",
+      "imageURL": "https://example.com/images/garlic-mashed-potatoes.jpg"
+    },
+    {
+      "title": "Thai Red Curry",
+      "ingredients": [
+        "1 cup coconut milk",
+        "2 tablespoons red curry paste",
+        "1 lb chicken or tofu",
+        "1 red bell pepper",
+        "1 zucchini",
+        "1 cup bamboo shoots",
+        "1 tablespoon fish sauce (optional)",
+        "1 tablespoon brown sugar",
+        "Fresh basil leaves",
+        "Cooked jasmine rice"
+      ],
+      "instructions": "1. Heat coconut milk, add red curry paste.\n2. Add chicken/tofu, cook until done.\n3. Add sliced vegetables and bamboo shoots.\n4. Season with fish sauce and sugar.\n5. Garnish with torn basil leaves.\n6. Serve over jasmine rice.",
+      "origin": "Thailand",
+      "preparationTime": "45 minutes",
+      "servingSize": "3-4 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 450,
+      "microNutrients": "Vitamin A, Potassium",
+      "sourceURL": "https://example.com/thai-red-curry-recipe",
+      "imageURL": "https://example.com/images/thai-red-curry.jpg"
+    },
+    {
+      "title": "Caprese Salad",
+      "ingredients": [
+        "Tomatoes",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Balsamic vinegar",
+        "Extra virgin olive oil",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Slice tomatoes and mozzarella.\n2. Arrange in alternating layers.\n3. Tuck in fresh basil leaves.\n4. Drizzle with balsamic vinegar and olive oil.\n5. Season with salt and pepper.",
+      "origin": "Italy",
+      "preparationTime": "15 minutes",
+      "servingSize": "2 servings",
+      "difficulty": "Easy",
+      "calorieCount": 250,
+      "microNutrients": "Vitamin C",
+      "sourceURL": "https://example.com/caprese-salad-recipe",
+      "imageURL": "https://example.com/images/caprese-salad.jpg"
+    },
+    {
+      "title": "Homestyle Beef Stew",
+      "ingredients": [
+        "1 lb stewing beef",
+        "2 potatoes",
+        "2 carrots",
+        "1 onion",
+        "2 cloves garlic",
+        "4 cups beef broth",
+        "1 cup red wine",
+        "1 teaspoon thyme",
+        "1 teaspoon rosemary",
+        "Salt and pepper",
+        "Flour for coating"
+      ],
+      "instructions": "1. Coat beef in flour, brown in a pot.\n2. Sauté onions and garlic.\n3. Add beef, broth, wine, herbs.\n4. Simmer for hours until beef is tender.\n5. Add diced potatoes and carrots.\n6. Season and cook until vegetables are soft.",
+      "origin": "Various",
+      "preparationTime": "3 hours",
+      "servingSize": "4-6 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 400,
+      "microNutrients": "Iron, Zinc",
+      "sourceURL": "https://example.com/beef-stew-recipe",
+      "imageURL": "https://example.com/images/beef-stew.jpg"
+    },
+    {
+      "title": "Lemon Herb Grilled Salmon",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 lemons",
+        "Fresh parsley",
+        "Fresh dill",
+        "Garlic powder",
+        "Salt and pepper",
+        "Olive oil"
+      ],
+      "instructions": "1. Preheat grill to medium-high.\n2. Drizzle olive oil on salmon.\n3. Sprinkle garlic powder, salt, and pepper.\n4. Grill salmon until cooked, about 4-5 minutes per side.\n5. Squeeze lemon juice, garnish with herbs.",
+      "origin": "Various",
+      "preparationTime": "20 minutes",
+      "servingSize": "4 servings",
+      "difficulty": "Easy",
+      "calorieCount": 350,
+      "microNutrients": "Omega-3 fatty acids",
+      "sourceURL": "https://example.com/grilled-salmon-recipe",
+      "imageURL": "https://example.com/images/grilled-salmon.jpg"
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "ingredients": [
+        "200g spaghetti",
+        "100g guanciale or pancetta",
+        "2 large eggs",
+        "50g Pecorino cheese",
+        "Salt and black pepper",
+        "Fresh parsley"
+      ],
+      "instructions": "1. Boil the spaghetti until al dente.\n2. While the spaghetti cooks, sauté the guanciale until crispy.\n3. In a bowl, whisk eggs, Pecorino cheese, salt, and pepper.\n4. Drain the pasta and quickly toss with the egg mixture.\n5. Mix in the guanciale and parsley.\n6. Serve immediately.",
+      "origin": "Italy",
+      "preparationTime": "20 minutes",
+      "servingSize": "2 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 500,
+      "microNutrients": "Calcium, Iron",
+      "sourceURL": "https://example.com/spaghetti-carbonara-recipe",
+      "imageURL": "https://example.com/images/spaghetti-carbonara.jpg"
+    },
+    {
+      "title": "Vegetable Stir-Fried Noodles",
+      "ingredients": [
+        "8 oz rice noodles",
+        "Assorted vegetables (bell peppers, carrots, broccoli)",
+        "1/4 cup soy sauce",
+        "2 tablespoons oyster sauce",
+        "1 tablespoon hoisin sauce",
+        "2 cloves garlic",
+        "1 teaspoon ginger",
+        "Sesame oil",
+        "Green onions"
+      ],
+      "instructions": "1. Cook rice noodles according to package.\n2. Sauté garlic and ginger.\n3. Add vegetables, cook until tender.\n4. Toss in drained noodles.\n5. Mix soy sauce, oyster sauce, and hoisin sauce.\n6. Pour sauce over noodles, stir-fry.\n7. Drizzle with sesame oil, garnish with green onions.",
+      "origin": "Various",
+      "preparationTime": "30 minutes",
+      "servingSize": "2 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 400,
+      "microNutrients": "Vitamin K",
+      "sourceURL": "https://example.com/stir-fried-noodles-recipe",
+      "imageURL": "https://example.com/images/stir-fried-noodles.jpg"
+    },
+    {
+      "title": "Homemade Chocolate Brownies",
+      "ingredients": [
+        "1 cup butter",
+        "2 cups sugar",
+        "4 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour",
+        "1/2 cup cocoa powder",
+        "1/4 teaspoon salt",
+        "1 cup chocolate chips",
+        "Chopped nuts (optional)"
+      ],
+      "instructions": "1. Preheat oven to 350°F (175°C).\n2. Melt butter, mix with sugar.\n3. Beat in eggs and vanilla.\n4. In a separate bowl, mix flour, cocoa, salt.\n5. Combine wet and dry ingredients.\n6. Fold in chocolate chips and nuts.\n7. Pour into a greased baking pan.\n8. Bake for 25-30 minutes.\n9. Let cool before cutting.",
+      "origin": "Various",
+      "preparationTime": "40 minutes",
+      "servingSize": "12-16 servings",
+      "difficulty": "Easy",
+      "calorieCount": 200,
+      "microNutrients": "Iron",
+      "sourceURL": "https://example.com/chocolate-brownies-recipe",
+      "imageURL": "https://example.com/images/chocolate-brownies.jpg"
+    },
+    {
+      "title": "Mango Salsa",
+      "ingredients": [
+        "2 ripe mangoes",
+        "1 red onion",
+        "1 red bell pepper",
+        "1 jalapeno",
+        "Fresh cilantro",
+        "Juice of 2 limes",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Dice mangoes, onion, bell pepper.\n2. Remove jalapeno seeds, finely chop.\n3. Combine all ingredients.\n4. Squeeze lime juice, season with salt.\n5. Mix well and refrigerate.\n6. Serve with tortilla chips or grilled meats.",
+      "origin": "Various",
+      "preparationTime": "20 minutes",
+      "servingSize": "4 servings",
+      "difficulty": "Easy",
+      "calorieCount": 100,
+      "microNutrients": "Vitamin C",
+      "sourceURL": "https://example.com/mango-salsa-recipe",
+      "imageURL": "https://example.com/images/mango-salsa.jpg"
+    }
+  ]
