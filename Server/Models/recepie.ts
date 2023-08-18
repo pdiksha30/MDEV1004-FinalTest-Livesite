@@ -1,6 +1,7 @@
 import { Collection, Schema,  model } from 'mongoose';
 
 interface IRecipe {
+  recepieID: string;
   title: string;
   origin: string;
   ingredients: string[];
@@ -16,6 +17,10 @@ interface IRecipe {
 
 
 const recepieSchema = new Schema<IRecipe>({
+  recepieID: {
+    type: String,
+    required: true
+  },
   title: {
     type: String,
     required: true

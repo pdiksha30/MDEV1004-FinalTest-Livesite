@@ -1,5 +1,6 @@
   [
     {
+      "recipeID": 1,
       "title": "Classic Margherita Pizza",
       "ingredients": [
         "Pizza dough",
@@ -20,6 +21,7 @@
       "imageURL": "https://example.com/images/margherita-pizza.jpg"
     },
     {
+      "recipeID": 2,
       "title": "Creamy Garlic Mashed Potatoes",
       "ingredients": [
         "4 large potatoes",
@@ -40,6 +42,7 @@
       "imageURL": "https://example.com/images/garlic-mashed-potatoes.jpg"
     },
     {
+      "recipeID": 3,
       "title": "Thai Red Curry",
       "ingredients": [
         "1 cup coconut milk",
@@ -64,6 +67,7 @@
       "imageURL": "https://example.com/images/thai-red-curry.jpg"
     },
     {
+      "recipeID": 4,
       "title": "Caprese Salad",
       "ingredients": [
         "Tomatoes",
@@ -84,6 +88,7 @@
       "imageURL": "https://example.com/images/caprese-salad.jpg"
     },
     {
+      "recipeID": 5,
       "title": "Homestyle Beef Stew",
       "ingredients": [
         "1 lb stewing beef",
@@ -109,6 +114,7 @@
       "imageURL": "https://example.com/images/beef-stew.jpg"
     },
     {
+      "recipeID": 6,
       "title": "Lemon Herb Grilled Salmon",
       "ingredients": [
         "4 salmon fillets",
@@ -130,6 +136,7 @@
       "imageURL": "https://example.com/images/grilled-salmon.jpg"
     },
     {
+      "recipeID": 7,
       "title": "Spaghetti Carbonara",
       "ingredients": [
         "200g spaghetti",
@@ -150,6 +157,7 @@
       "imageURL": "https://example.com/images/spaghetti-carbonara.jpg"
     },
     {
+      "recipeID": 8,
       "title": "Vegetable Stir-Fried Noodles",
       "ingredients": [
         "8 oz rice noodles",
@@ -173,6 +181,7 @@
       "imageURL": "https://example.com/images/stir-fried-noodles.jpg"
     },
     {
+      "recipeID": 9,
       "title": "Homemade Chocolate Brownies",
       "ingredients": [
         "1 cup butter",
@@ -196,6 +205,7 @@
       "imageURL": "https://example.com/images/chocolate-brownies.jpg"
     },
     {
+      "recipeID": 10,
       "title": "Mango Salsa",
       "ingredients": [
         "2 ripe mangoes",
@@ -215,5 +225,227 @@
       "microNutrients": "Vitamin C",
       "sourceURL": "https://example.com/mango-salsa-recipe",
       "imageURL": "https://example.com/images/mango-salsa.jpg"
+    },
+    {
+      "recipeID": 11,
+      "title": "Greek Salad",
+      "ingredients": [
+        "Cucumbers",
+        "Tomatoes",
+        "Red onions",
+        "Kalamata olives",
+        "Feta cheese",
+        "Fresh oregano",
+        "Extra virgin olive oil",
+        "Red wine vinegar",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Chop cucumbers, tomatoes, onions.\n2. Toss with olives and crumbled feta.\n3. Drizzle olive oil, red wine vinegar.\n4. Season with oregano, salt, and pepper.",
+      "origin": "Greece",
+      "preparationTime": "15 minutes",
+      "servingSize": "2-3 servings",
+      "difficulty": "Easy",
+      "calorieCount": 200,
+      "microNutrients": "Vitamin K",
+      "sourceURL": "https://example.com/greek-salad-recipe",
+      "imageURL": "https://example.com/images/greek-salad.jpg"
+    },
+    {
+      "recipeID": 12,
+      "title": "Chicken Fajitas",
+      "ingredients": [
+        "Boneless chicken breasts",
+        "Bell peppers",
+        "Onion",
+        "Fajita seasoning",
+        "Flour tortillas",
+        "Sour cream",
+        "Salsa",
+        "Guacamole"
+      ],
+      "instructions": "1. Slice chicken, peppers, onions.\n2. Season with fajita seasoning.\n3. Sauté until chicken is cooked.\n4. Warm tortillas.\n5. Serve with sour cream, salsa, guacamole.",
+      "origin": "Mexico",
+      "preparationTime": "25 minutes",
+      "servingSize": "4 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 350,
+      "microNutrients": "Vitamin B12",
+      "sourceURL": "https://example.com/chicken-fajitas-recipe",
+      "imageURL": "https://example.com/images/chicken-fajitas.jpg"
+    },
+    {
+      "recipeID": 13,
+      "title": "Roasted Vegetable Medley",
+      "ingredients": [
+        "Assorted vegetables (carrots, zucchini, bell peppers, etc.)",
+        "Olive oil",
+        "Garlic powder",
+        "Dried herbs (thyme, rosemary, oregano)",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Chop vegetables into bite-sized pieces.\n2. Toss with olive oil, garlic powder, herbs.\n3. Roast in oven until tender and slightly caramelized.\n4. Season with salt and pepper.",
+      "origin": "Various",
+      "preparationTime": "30 minutes",
+      "servingSize": "4 servings",
+      "difficulty": "Easy",
+      "calorieCount": 150,
+      "microNutrients": "Fiber",
+      "sourceURL": "https://example.com/roasted-vegetables-recipe",
+      "imageURL": "https://example.com/images/roasted-vegetables.jpg"
+    },
+    {
+      "recipeID": 14,
+      "title": "Pasta Primavera",
+      "ingredients": [
+        "Pasta",
+        "Assorted vegetables (broccoli, peas, carrots)",
+        "Olive oil",
+        "Garlic",
+        "Parmesan cheese",
+        "Fresh basil",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Cook pasta, drain.\n2. Sauté garlic in olive oil.\n3. Add blanched vegetables.\n4. Toss with pasta, cheese, basil.\n5. Season with salt and pepper.",
+      "origin": "Italy",
+      "preparationTime": "25 minutes",
+      "servingSize": "3-4 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 300,
+      "microNutrients": "Vitamin A",
+      "sourceURL": "https://example.com/pasta-primavera-recipe",
+      "imageURL": "https://example.com/images/pasta-primavera.jpg"
+    },
+    {
+      "recipeID": 15,
+      "title": "Homemade Margherita Pasta",
+      "ingredients": [
+        "Spaghetti",
+        "Tomatoes",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Garlic",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Cook spaghetti, drain.\n2. Sauté garlic in olive oil.\n3. Add chopped tomatoes, cook briefly.\n4. Toss with cooked pasta.\n5. Top with torn basil and mozzarella.\n6. Season with salt and pepper.",
+      "origin": "Italy",
+      "preparationTime": "25 minutes",
+      "servingSize": "2-3 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 400,
+      "microNutrients": "Vitamin C",
+      "sourceURL": "https://example.com/margherita-pasta-recipe",
+      "imageURL": "https://example.com/images/margherita-pasta.jpg"
+    },
+    {
+      "recipeID": 16,
+      "title": "Creamy Spinach and Artichoke Dip",
+      "ingredients": [
+        "Frozen chopped spinach",
+        "Canned artichoke hearts",
+        "Cream cheese",
+        "Mayonnaise",
+        "Sour cream",
+        "Grated Parmesan cheese",
+        "Garlic powder",
+        "Mozzarella cheese"
+      ],
+      "instructions": "1. Thaw and drain spinach, chop artichokes.\n2. Mix cream cheese, mayo, sour cream.\n3. Add spinach, artichokes, Parmesan, garlic.\n4. Spread in a baking dish.\n5. Top with mozzarella.\n6. Bake until bubbly and golden.",
+      "origin": "Various",
+      "preparationTime": "35 minutes",
+      "servingSize": "6-8 servings",
+      "difficulty": "Easy",
+      "calorieCount": 250,
+      "microNutrients": "Calcium",
+      "sourceURL": "https://example.com/spinach-artichoke-dip-recipe",
+      "imageURL": "https://example.com/images/spinach-artichoke-dip.jpg"
+    },
+    {
+      "recipeID": 17,
+      "title": "Honey Glazed Carrots",
+      "ingredients": [
+        "Carrots",
+        "Honey",
+        "Butter",
+        "Fresh thyme",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Peel and slice carrots.\n2. Sauté in butter until slightly tender.\n3. Add honey, thyme, salt, and pepper.\n4. Cook until carrots are glazed and caramelized.",
+      "origin": "Various",
+      "preparationTime": "20 minutes",
+      "servingSize": "4 servings",
+      "difficulty": "Easy",
+      "calorieCount": 150,
+      "microNutrients": "Vitamin A",
+      "sourceURL": "https://example.com/honey-glazed-carrots-recipe",
+      "imageURL": "https://example.com/images/honey-glazed-carrots.jpg"
+    },
+    {
+      "recipeID": 18,
+      "title": "Ratatouille",
+      "ingredients": [
+        "Eggplant",
+        "Zucchini",
+        "Bell peppers",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Fresh thyme",
+        "Olive oil",
+        "Salt and pepper"
+      ],
+      "instructions": "1. Slice eggplant, zucchini, peppers.\n2. Sauté onion and garlic.\n3. Layer vegetables in a baking dish.\n4. Drizzle with olive oil, season.\n5. Bake until vegetables are tender.",
+      "origin": "France",
+      "preparationTime": "45 minutes",
+      "servingSize": "4 servings",
+      "difficulty": "Intermediate",
+      "calorieCount": 180,
+      "microNutrients": "Fiber",
+      "sourceURL": "https://example.com/ratatouille-recipe",
+      "imageURL": "https://example.com/images/ratatouille.jpg"
+    },
+    {
+      "recipeID": 19,
+      "title": "Homemade Beef Tacos",
+      "ingredients": [
+        "Ground beef",
+        "Taco seasoning",
+        "Taco shells",
+        "Shredded lettuce",
+        "Diced tomatoes",
+        "Shredded cheddar cheese",
+        "Sour cream",
+        "Sliced jalapenos"
+      ],
+      "instructions": "1. Brown ground beef, drain excess fat.\n2. Mix in taco seasoning and water.\n3. Warm taco shells.\n4. Fill shells with beef.\n5. Top with lettuce, tomatoes, cheese.\n6. Garnish with sour cream and jalapenos.",
+      "origin": "Mexico",
+      "preparationTime": "20 minutes",
+      "servingSize": "4 servings",
+      "difficulty": "Easy",
+      "calorieCount": 300,
+      "microNutrients": "Protein",
+      "sourceURL": "https://example.com/beef-tacos-recipe",
+      "imageURL": "https://example.com/images/beef-tacos.jpg"
+    },
+    {
+      "recipeID": 20,
+      "title": "Blueberry Pancakes",
+      "ingredients": [
+        "Pancake mix",
+        "Blueberries",
+        "Milk",
+        "Eggs",
+        "Butter",
+        "Maple syrup"
+      ],
+      "instructions": "1. Mix pancake batter, fold in blueberries.\n2. Heat a griddle, melt butter.\n3. Pour batter onto griddle.\n4. Cook until bubbles form, flip.\n5. Cook until golden.\n6. Serve with maple syrup.",
+      "origin": "Various",
+      "preparationTime": "25 minutes",
+      "servingSize": "4 servings",
+      "difficulty": "Easy",
+      "calorieCount": 250,
+      "microNutrients": "Vitamin C",
+      "sourceURL": "https://example.com/blueberry-pancakes-recipe",
+      "imageURL": "https://example.com/images/blueberry-pancakes.jpg"
     }
   ]
