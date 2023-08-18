@@ -5,8 +5,7 @@
   "author": "Diksha Patel",
   "engines": {
     "node": "20.2.0",
-    "npm": "9.6.6",
-    "yarn": "1.22.19"
+    "npm": "9.6.6"
   },
   "scripts": {
     "start": "node server.js"
